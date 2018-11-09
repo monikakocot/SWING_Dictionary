@@ -1,0 +1,1 @@
+Rozbudowaæ tak aby wpisywanie s³ów odbywa³o sie w tym samym panelu a nie w nowym wyskakuj¹cym okienku
