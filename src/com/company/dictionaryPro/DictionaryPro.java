@@ -1,4 +1,4 @@
-package SlownikPro;
+package com.company.dictionaryPro;
 
 /*
 Simple Dictionary. User can choose direction of translation:

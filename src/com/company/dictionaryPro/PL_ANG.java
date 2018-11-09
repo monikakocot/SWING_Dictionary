@@ -1,4 +1,4 @@
-package SlownikPro;
+package com.company.dictionaryPro;
 
 import java.util.HashMap;
 

@@ -1,4 +1,4 @@
-package com.company;
+package com.company.dictionary;
 
 import javax.swing.*;
 import java.util.*;
